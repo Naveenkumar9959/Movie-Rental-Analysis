@@ -2,6 +2,26 @@
 
 ### _Provide Insights to the Business Strategy Team in the Rental Domain / Sakila DVD Rental Store: Analysis for optimize film inventory, enhance customer satisfaction, improve staff performance, and streamline store operations_
 
+### _DATA MODEL_
+<p align="center">
+    <img src="https://github.com/Naveenkumar9959/Movie-Rental-Analysis/blob/main/Screenshot%202024-03-26%20224520.png" width="800">
+</p>
+
+### _Overall Analysis_
+#### _Revenue Analysis_
+<p align="center">
+    <img src="https://github.com/Naveenkumar9959/Movie-Rental-Analysis/blob/main/Screenshot%202024-03-26%20082640.png" width="800"> </p>
+
+#### _Revenue Analysis_
+<p align="center">  <img src="https://github.com/Naveenkumar9959/Movie-Rental-Analysis/blob/main/Screenshot%202024-03-26%20082652.png" width="800"></p>
+
+  #### _Revenue Analysis_
+  <p align="center"><img src="https://github.com/Naveenkumar9959/Movie-Rental-Analysis/blob/main/Screenshot%202024-03-26%20082706.png" width="800"></p>
+ 
+ #### _Revenue Analysis_
+ <p align="center"> <img src="https://github.com/Naveenkumar9959/Movie-Rental-Analysis/blob/main/Screenshot%202024-03-26%20082721.png" width="800"></p>
+
+
 ## _Main Insights_
 #### _Total Performance Metrics_:
 -	The stores have rented out 1000 films, generating a total revenue of $66.89K.
