@@ -41,7 +41,15 @@
 - The top performs categories based on revenue has sports with 5.3k dollars and 1164 rents
 - Some categories have good revenue but less rents, some categories like Family and Action
 - Family Categories films are mostly preferred by every age group but low rental rate
-- Action Categories films are mostly Preferred by adults  
+- Action Categories films are mostly Preferred by adults
+
+  ## Learning
+  - Data Import
+  - Data Cleaning
+  - Data Modelling
+  - Data visualization
+  - Create Meaningful Insights
+  - Understanding Stakeholders Requirements
 
 
 
