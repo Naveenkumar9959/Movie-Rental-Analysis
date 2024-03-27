@@ -2,6 +2,8 @@
 
 ### _Provide Insights to the Business Strategy Team in the Rental Domain / Sakila DVD Rental Store: Analysis for optimize film inventory, enhance customer satisfaction, improve staff performance, and streamline store operations_
 
+### Live dashboard- [link](https://www.novypro.com/project/movie-rental-analysis)
+
 ### _DATA MODEL_
 <p align="center">
     <img src="https://github.com/Naveenkumar9959/Movie-Rental-Analysis/blob/main/Screenshot%202024-03-26%20224520.png" width="800">
