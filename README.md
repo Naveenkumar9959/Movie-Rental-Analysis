@@ -14,13 +14,13 @@
 <p align="center">
     <img src="https://github.com/Naveenkumar9959/Movie-Rental-Analysis/blob/main/Screenshot%202024-03-26%20082640.png" width="800"> </p>
 
-#### _Revenue Analysis_
+#### _Inventory Analysis_
 <p align="center">  <img src="https://github.com/Naveenkumar9959/Movie-Rental-Analysis/blob/main/Screenshot%202024-03-26%20082652.png" width="800"></p>
 
-  #### _Revenue Analysis_
+  #### _Film Wise Analysis_
   <p align="center"><img src="https://github.com/Naveenkumar9959/Movie-Rental-Analysis/blob/main/Screenshot%202024-03-26%20082706.png" width="800"></p>
  
- #### _Revenue Analysis_
+ #### _Customer Analysis_
  <p align="center"> <img src="https://github.com/Naveenkumar9959/Movie-Rental-Analysis/blob/main/Screenshot%202024-03-26%20082721.png" width="800"></p>
 
 
